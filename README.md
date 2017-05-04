@@ -7,9 +7,13 @@
 ８でも動くと思います  
 
 ## 使い方
-![LaunChar.gif](https://github.com/seinosuke/LaunChar/blob/master/LaunChar.gif)
+![LaunChar.gif](https://github.com/seinosuke/LaunChar/blob/master/LaunChar.gif)  
+
 起動するだけです  
 終了する場合はタスクバーからメインウィンドウを閉じてください  
+
+## ダウンロード
+[LaunChar.zip](https://github.com/seinosuke/LaunChar/releases/download/0.1.0/LaunChar.zip)
 
 ## ライセンス
 [MIT License](http://opensource.org/licenses/MIT)  
